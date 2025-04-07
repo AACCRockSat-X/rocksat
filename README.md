@@ -20,3 +20,6 @@ Rocket  sat system design
 ##  Pi Pico https://www.adafruit.com/product/5544?gad_source=1&gclid=Cj0KCQiAvP-6BhDyARIsAJ3uv7aerkQJ1gBLvekEUdpjiw5ar_tqYjHRf7FKh67PzFWWgB9nKjGvnFYaAnl6EALw_wcB
 
 ##  Buck Convertor https://www.amazon.com/dp/B08NV3JCBC?ref=cm_sw_r_apin_dp_YCA48NH28787VA5TPW9X&ref_=cm_sw_r_apin_dp_YCA48NH28787VA5TPW9X&social_share=cm_sw_r_apin_dp_YCA48NH28787VA5TPW9X&language=en-US&th=1
+
+
+#Electronic Schematics
