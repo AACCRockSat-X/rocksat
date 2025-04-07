@@ -21,5 +21,3 @@ Rocket  sat system design
 
 ##  Buck Convertor https://www.amazon.com/dp/B08NV3JCBC?ref=cm_sw_r_apin_dp_YCA48NH28787VA5TPW9X&ref_=cm_sw_r_apin_dp_YCA48NH28787VA5TPW9X&social_share=cm_sw_r_apin_dp_YCA48NH28787VA5TPW9X&language=en-US&th=1
 
-
-#Electronic Schematics
